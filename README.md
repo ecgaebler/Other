@@ -1,2 +1,2 @@
 # Other projects
-Miscellaneous code
+Miscellaneous projects that aren't typical practice problems.
