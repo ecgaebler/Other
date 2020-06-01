@@ -1,2 +1,2 @@
-# Practice
-Programming practice problems
+# Other projects
+Miscellaneous code
